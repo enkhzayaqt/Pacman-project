@@ -1,7 +1,7 @@
 
 # Pacman project
 
-This code displays and moves PacMan from one side of the screen to the other. This code originated from a code challenge in Week #4 of **MIT's MERN Coding Bootcamp**. 
+This code displays and moves PacMan from one side of the screen to the other. This code originated from a code challenge in Week #3 of **MIT's MERN Coding Bootcamp**. 
 
 
 
