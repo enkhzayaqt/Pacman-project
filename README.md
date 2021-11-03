@@ -1,8 +1,9 @@
 
 # Pacman project
 
-This code displays and moves PacMan from one side of the screen to the other. This code originated from a code challenge in Week #4 of **MIT's MERN Coding Bootcamp**. 
-
+This exercise is creating PacMen with the click of a button and each of them will move about the browser window at their own pace.
+In this exercise, I have created a web page that produces a PacMan on the click of a button by using the array methods and 
+manipulating the DOM.This code originated from a code challenge in Week #4 and week #7 of **MIT's MERN Coding Bootcamp**. 
 
 
 ## License
