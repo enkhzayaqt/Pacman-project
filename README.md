@@ -2,7 +2,7 @@
 
 ## About the project
 
-Pacmen project is Pacmen will be creadted with the click of a button and each of them will move about the browser window at their owen pace. Once Pacmen reach the edge of the window they will change the direction. In this project i have used array method and DOM manipulation. This code originated from a code challenge in Week #4 and week #7 of **MIT's MERN Coding Bootcamp**.
+Pacmen project is Pacmen will be created with the click of a button and each of them will move about the browser window at their own pace. Once Pacmen reach the edge of the window they will change the direction. In this project i have used array method and DOM manipulation. This code originated from a code challenge in Week #4 and week #7 of **MIT's MERN Coding Bootcamp**.
 
 ## How to Run:
 
@@ -10,7 +10,7 @@ Fork this repository into your computer and open it in your code editor.
 
 ## Roadmap of future improvements:
 
-I am planning to create wall and obsticle in the window and if Pacmen reach to the obsticle they will dissappear.
+I am planning to create few walls and obsticle in the middle of the window and if Pacmen reach to the obsticle they will dissappear.
 
 ## License
 
